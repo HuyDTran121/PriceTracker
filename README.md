@@ -1,2 +1,2 @@
 # PriceTracker
-Tracks prices
+Tracks prices well
