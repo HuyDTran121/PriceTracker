@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PriceTracker</string>
+    <string name="enter_product_name">Enter product name</string>
+    <string name="search">Search</string>
 </resources>
